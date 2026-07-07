@@ -42,12 +42,3 @@ An in-depth exploration of the advanced mathematical foundations of Artificial I
 
 * **Language:** Python 3.x
 * **Libraries:** NumPy, Pandas (Data manipulation & preprocessing)
-
----
-
-## Project Structure
-
-```text
-├── assignments/            # Core assignment files containing mathematical derivations and implementations
-├── src/                    # Custom forward/backward pipeline scripts
-└── README.md               # Project documentation
